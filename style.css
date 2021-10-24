@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color:black;
+    color: white;
+    height: 155px;
+    text-align: center;   
+}
+
+header nav ul li {
+    list-style: none;
+    display: inline;
+    padding: 0 43px;
+    font-size: x-large;  
+} 
+
+
+header nav ul li a{
+    color:whitesmoke;
+    text-decoration: none;
+
+} 
+
+header nav ul li a:hover {
+    border-bottom: 7px solid white;
+    border-right-style: double;
+} 
+
+body{
+
+background-image: url(Recording-.jpg);
+position: fixed;
+}
+
+
+
+
+
+
+
+
+
